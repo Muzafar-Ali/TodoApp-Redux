@@ -2,7 +2,7 @@
   # Student name: Muzafar Ali
   # Student ID: IOT045448
   App Requirements:
-  user can add todo
+  user can add todo.\
   user can delete todo
   user can edit the todo
   user can delete all todo
