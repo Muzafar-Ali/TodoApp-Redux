@@ -1,13 +1,13 @@
 # Q4-Assignment #1 Todo App Redux
   # Student name: Muzafar Ali
   # Student ID: IOT045448
-  App Requirements:
+  App Requirements:.\
   user can add todo.\
   user can delete todo.\
   user can edit the todo.\
   user can delete all todo.\
   user can update the todo status (active / inactive).\
-  todo list can be filtered by status.\
+  todo list can be filtered by status.
 
 # Getting Started with Create React App
 
