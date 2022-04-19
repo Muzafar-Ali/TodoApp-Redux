@@ -3,11 +3,11 @@
   # Student ID: IOT045448
   App Requirements:
   user can add todo.\
-  user can delete todo
-  user can edit the todo
-  user can delete all todo
-  user can update the todo status (active / inactive)
-  todo list can be filtered by status
+  user can delete todo.\
+  user can edit the todo.\
+  user can delete all todo.\
+  user can update the todo status (active / inactive).\
+  todo list can be filtered by status.\
 
 # Getting Started with Create React App
 
