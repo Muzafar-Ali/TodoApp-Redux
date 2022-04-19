@@ -1,5 +1,5 @@
 # Q4-Assignment #1 Todo App Redux
-  # Student name Muzafar Ali
+  # Student name: Muzafar Ali
   # Student ID: IOT045448
 
 # Getting Started with Create React App
