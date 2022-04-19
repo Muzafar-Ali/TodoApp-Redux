@@ -2,7 +2,6 @@
 const initialState ={
     todoList:[
         {title: 'Task One',id:'1', status:'Active'},
-        {title: 'Task Two',id:'2', status:'Active'}
     ]
 }
 
